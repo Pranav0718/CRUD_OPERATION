@@ -9,8 +9,8 @@ if ($dbcon -> connect_errno)
 }
 else
 {
-      echo("conection established susscessfully");
-      ;
+      //echo("conection established susscessfully");
+      
 
 }
 ?>
